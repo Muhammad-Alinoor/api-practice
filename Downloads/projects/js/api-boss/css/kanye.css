@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+#kanye-quote{
+    border: 2px solid slategray;
+    height: 100px;
+    background-color: tan;
+    padding: 20px;
+}
+#next{
+    position: relative;
+    left: 700px;
+    padding:10px 40px;
+    border: rgb(51, 28, 51) 5px solid;
+    background-color: rgba(255, 127, 80, 0.493);
+    color: cornsilk;
+    font-weight: 700;
+    font-size: large;
+    margin-top: 10px;
+}
+.quote-style{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    color:seagreen;
+    word-wrap: wrap;
+
+}
