@@ -1,0 +1,27 @@
+.country-style{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+}
+.seperate-country{
+    border: 5px solid rgb(131, 48, 48);
+    padding: 10px;
+    border-radius: 10px;
+}
+.country{
+    border: 10px solid seagreen;
+    background-color:darkslategrey;
+    width: 450px;
+    border-radius: 20px;
+    position: relative;
+    left: 500px;
+    margin-bottom: 15px;
+    padding: 20px;
+
+}
+.country img{
+    border-radius: 10px;
+}
+.country h3,h4{
+    color: white;
+}
