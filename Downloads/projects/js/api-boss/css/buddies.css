@@ -1,0 +1,49 @@
+.head{
+ height: 400px;
+ width: 100%;
+ background-color:rgb(31, 31, 31);
+ color: white;  
+ font-size:xx-large;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+body{
+    margin: -100px 0px;
+}
+#new-friend{
+    height: 500px;
+    width: 50%;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 150px;
+    left : 375px;
+}
+#new-friend img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    position: relative;
+    left: 270px;
+    top: 20px;
+}
+.intro{
+    text-align: center;
+    font-size: 24px;
+    color: rgb(143, 143, 143);
+    margin-top: 50px;
+}
+.name {
+    display: block;
+    font-size: 36px;
+    color: black;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 200px;
+    top: 20px;
+}
+
+
